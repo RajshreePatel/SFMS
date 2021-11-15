@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "nbvgj",
+      "lastName": "gjhgy",
+      "email": "fgsdf@gmail.com",
+      "mobile": "776563345423",
+      "fees": "654534231"
+    },
+    {
+      "id": 1,
+      "firstName": "Bholu",
+      "lastName": "Kumar",
+      "email": "bholu@gmail.com",
+      "mobile": "67564534231",
+      "fees": "1325765646535734"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
